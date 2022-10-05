@@ -1,0 +1,74 @@
+body {
+    background-color: aqua;
+}
+
+.menu {
+    border: 1px solid grey;
+    background-color: white;
+    display: block;
+    word-spacing: 10px;
+    
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    font-size: medium;
+}
+
+p,
+h1 {
+    padding: 10px;
+    font-size: large;
+}
+
+img {
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+    font-family: 'Alkalami', serif;
+}
+
+#a {
+    font-family: 'Comforter Brush', cursive;
+}
+
+#b {
+    font-family: 'Kalam', cursive;
+}
+
+#c {
+    font-family: 'Abril Fatface', cursive;
+}
+
+#d {
+    font-family: 'Indie Flower', cursive;
+}
+
+#e {
+    font-family: 'Pacifico', cursive;
+}
+
+#f {
+    font-family: 'Passions Conflict', cursive;
+}
+
+#g {
+    font-family: 'Peralta', cursive;
+}
+
+#h {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#i {
+    font-family: 'Silkscreen', cursive;
+}
+
+#j {
+    font-family: 'Press Start 2P', cursive;
+
+}
